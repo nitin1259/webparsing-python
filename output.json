@@ -1,0 +1,270 @@
+{
+  "type": "vendor",
+  "source": "adobe",
+  "cves": [
+    {
+      "timestamp": "24 May, 2020",
+      "published_date": "",
+      "id": "CVE-2020-3804 CVE-2020-3806",
+      "url": "https://helpx.adobe.com/security/products/acrobat/apsb20-13.html",
+      "name": "Information Disclosure",
+      "description": "Out-of-bounds read",
+      "cpes": {
+        "operator": "OR",
+        "cpe_list": [
+          {
+            "vendor": "adobe",
+            "product": "vendor",
+            "category": "a",
+            "versionStartIncluding": 1.0,
+            "versionEndIncluding": 1.0
+          },
+          {
+            "vendor": "adobe",
+            "product": "vendor",
+            "category": "a",
+            "versionStartIncluding": 2.1,
+            "versionEndIncluding": 2.1
+          }
+        ]
+      },
+      "cvssv2": {
+        "severity": "Important"
+      },
+      "cvssv3": {
+        "severity": "HIGH"
+      }
+    },
+    {
+      "timestamp": "24 May, 2020",
+      "published_date": "",
+      "id": "CVE-2020-3795",
+      "url": "https://helpx.adobe.com/security/products/acrobat/apsb20-13.html",
+      "name": "Arbitrary Code Execution",
+      "description": "Out-of-bounds write",
+      "cpes": {
+        "operator": "OR",
+        "cpe_list": [
+          {
+            "vendor": "adobe",
+            "product": "vendor",
+            "category": "a",
+            "versionStartIncluding": 1.0,
+            "versionEndIncluding": 1.0
+          },
+          {
+            "vendor": "adobe",
+            "product": "vendor",
+            "category": "a",
+            "versionStartIncluding": 2.1,
+            "versionEndIncluding": 2.1
+          }
+        ]
+      },
+      "cvssv2": {
+        "severity": "Critical"
+      },
+      "cvssv3": {
+        "severity": "HIGH"
+      }
+    },
+    {
+      "timestamp": "24 May, 2020",
+      "published_date": "",
+      "id": "CVE-2020-3799",
+      "url": "https://helpx.adobe.com/security/products/acrobat/apsb20-13.html",
+      "name": "Arbitrary Code Execution",
+      "description": "Stack-based buffer overflow",
+      "cpes": {
+        "operator": "OR",
+        "cpe_list": [
+          {
+            "vendor": "adobe",
+            "product": "vendor",
+            "category": "a",
+            "versionStartIncluding": 1.0,
+            "versionEndIncluding": 1.0
+          },
+          {
+            "vendor": "adobe",
+            "product": "vendor",
+            "category": "a",
+            "versionStartIncluding": 2.1,
+            "versionEndIncluding": 2.1
+          }
+        ]
+      },
+      "cvssv2": {
+        "severity": "Critical"
+      },
+      "cvssv3": {
+        "severity": "HIGH"
+      }
+    },
+    {
+      "timestamp": "24 May, 2020",
+      "published_date": "",
+      "id": "CVE-2020-3792 CVE-2020-3793 CVE-2020-3801 CVE-2020-3802 CVE-2020-3805",
+      "url": "https://helpx.adobe.com/security/products/acrobat/apsb20-13.html",
+      "name": "Arbitrary Code Execution",
+      "description": "Use-after-free",
+      "cpes": {
+        "operator": "OR",
+        "cpe_list": [
+          {
+            "vendor": "adobe",
+            "product": "vendor",
+            "category": "a",
+            "versionStartIncluding": 1.0,
+            "versionEndIncluding": 1.0
+          },
+          {
+            "vendor": "adobe",
+            "product": "vendor",
+            "category": "a",
+            "versionStartIncluding": 2.1,
+            "versionEndIncluding": 2.1
+          }
+        ]
+      },
+      "cvssv2": {
+        "severity": "Critical"
+      },
+      "cvssv3": {
+        "severity": "HIGH"
+      }
+    },
+    {
+      "timestamp": "24 May, 2020",
+      "published_date": "",
+      "id": "CVE-2020-3800",
+      "url": "https://helpx.adobe.com/security/products/acrobat/apsb20-13.html",
+      "name": "Information Disclosure",
+      "description": "Memory address leak",
+      "cpes": {
+        "operator": "OR",
+        "cpe_list": [
+          {
+            "vendor": "adobe",
+            "product": "vendor",
+            "category": "a",
+            "versionStartIncluding": 1.0,
+            "versionEndIncluding": 1.0
+          },
+          {
+            "vendor": "adobe",
+            "product": "vendor",
+            "category": "a",
+            "versionStartIncluding": 2.1,
+            "versionEndIncluding": 2.1
+          }
+        ]
+      },
+      "cvssv2": {
+        "severity": "Important"
+      },
+      "cvssv3": {
+        "severity": "HIGH"
+      }
+    },
+    {
+      "timestamp": "24 May, 2020",
+      "published_date": "",
+      "id": "CVE-2020-3807",
+      "url": "https://helpx.adobe.com/security/products/acrobat/apsb20-13.html",
+      "name": "Arbitrary Code Execution",
+      "description": "Buffer overflow",
+      "cpes": {
+        "operator": "OR",
+        "cpe_list": [
+          {
+            "vendor": "adobe",
+            "product": "vendor",
+            "category": "a",
+            "versionStartIncluding": 1.0,
+            "versionEndIncluding": 1.0
+          },
+          {
+            "vendor": "adobe",
+            "product": "vendor",
+            "category": "a",
+            "versionStartIncluding": 2.1,
+            "versionEndIncluding": 2.1
+          }
+        ]
+      },
+      "cvssv2": {
+        "severity": "Critical"
+      },
+      "cvssv3": {
+        "severity": "HIGH"
+      }
+    },
+    {
+      "timestamp": "24 May, 2020",
+      "published_date": "",
+      "id": "CVE-2020-3797",
+      "url": "https://helpx.adobe.com/security/products/acrobat/apsb20-13.html",
+      "name": "Arbitrary Code Execution",
+      "description": "Memory corruption",
+      "cpes": {
+        "operator": "OR",
+        "cpe_list": [
+          {
+            "vendor": "adobe",
+            "product": "vendor",
+            "category": "a",
+            "versionStartIncluding": 1.0,
+            "versionEndIncluding": 1.0
+          },
+          {
+            "vendor": "adobe",
+            "product": "vendor",
+            "category": "a",
+            "versionStartIncluding": 2.1,
+            "versionEndIncluding": 2.1
+          }
+        ]
+      },
+      "cvssv2": {
+        "severity": "Critical"
+      },
+      "cvssv3": {
+        "severity": "HIGH"
+      }
+    },
+    {
+      "timestamp": "24 May, 2020",
+      "published_date": "",
+      "id": "CVE-2020-3803",
+      "url": "https://helpx.adobe.com/security/products/acrobat/apsb20-13.html",
+      "name": "Privilege Escalation",
+      "description": "Insecure library loading (DLL hijacking)",
+      "cpes": {
+        "operator": "OR",
+        "cpe_list": [
+          {
+            "vendor": "adobe",
+            "product": "vendor",
+            "category": "a",
+            "versionStartIncluding": 1.0,
+            "versionEndIncluding": 1.0
+          },
+          {
+            "vendor": "adobe",
+            "product": "vendor",
+            "category": "a",
+            "versionStartIncluding": 2.1,
+            "versionEndIncluding": 2.1
+          }
+        ]
+      },
+      "cvssv2": {
+        "severity": "Important"
+      },
+      "cvssv3": {
+        "severity": "HIGH"
+      }
+    }
+  ]
+}
